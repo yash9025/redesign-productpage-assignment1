@@ -37,6 +37,14 @@ Requirements:
 - Ensure the page is responsive and works well on mobile, tablet, and desktop devices
 - Optimize performance where possible
 - Maintain the existing component structure, but feel free to add new components as needed
+- Follow standard SaaS landing page UI protocols and design standards:
+  - Clear hero section with compelling value proposition
+  - Feature highlights with proper visual hierarchy
+  - Social proof sections (testimonials/logos if applicable)
+  - Clear CTAs (Call-to-Actions) throughout the page
+  - Consistent spacing, typography and color system
+  - Accessible design practices (contrast ratios, focus states, etc.)
+  - Visual elements that communicate the product's purpose
 
 ### Task 2: Create Shared Routes Configuration
 
@@ -77,5 +85,24 @@ Your submission will be evaluated based on:
 - Attention to detail
 - Performance considerations
 - Ability to follow instructions
+
+## References: Top SaaS Landing Pages to Inspire
+
+Study these top-performing SaaS landing pages for inspiration:
+
+- **Asana**: Known for amazing typography and a visually appealing layout that clearly communicates value.
+- **HubSpot**: Combines clear messaging, engaging visuals, social proof, and intuitive CTAs to capture attention and drive action.
+- **Airtable**: Features an animated product demo and strong social proof with logos from major brands like Netflix and Shopify, making complex offerings easy to understand.
+- **SEMrush**: Demonstrates strong SaaS landing page design principles with a unique and compelling presentation.
+- **Canva**: Offers a visually stunning page that quickly communicates product value, inspiring effective SaaS landing page design.
+- **Moz**: Provides a high-converting design focused on SEO tools, combining clarity and persuasion.
+- **Help Scout**: Delivers an informative and visually appealing landing page that communicates product value effectively.
+- **Shopify**: Known for a well-written, persuasive landing page with a unique value proposition and customization options.
+- **Talon.One**: Persuasively presents features and benefits aimed at converting visitors into leads or trial users.
+- **Evernote**: Covers all essential elements of a SaaS landing page, creating a comprehensive and effective user experience.
+- **Monday.com**: Uses clever design to present product capabilities interactively, with clear support options highlighted.
+- **Other notable examples**: Mixpanel, Trinet, OpenPhone, SurveyMonkey, Jira, Squarespace, and Twilio Segment
+
+Take time to visit these sites and analyze what makes them effective before starting your redesign.
 
 Good luck!
