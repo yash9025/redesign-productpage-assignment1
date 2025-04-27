@@ -47,11 +47,11 @@ export const protectedRoutes: Routes = [
         ),
         authority: [],
     },
+    // Change the homePage path from '/hello' to '/'
     {
         key: 'homePage',
-        path: `/hello`,
+        path: `/`,
         component: lazy(() => import('@/views/Home')),
         authority: []
     },
-    ...othersRoute,
 ]

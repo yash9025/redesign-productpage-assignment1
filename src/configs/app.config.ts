@@ -9,8 +9,8 @@ export type AppConfig = {
 
 const appConfig: AppConfig = {
     apiPrefix: '/api',
-    authenticatedEntryPath: '/hello',
-    unAuthenticatedEntryPath: '/hello',
+    authenticatedEntryPath: '/',  // Changed from '/hello' to '/'
+    unAuthenticatedEntryPath: '/',  // Changed from '/hello' to '/'
     locale: 'en',
     accessTokenPersistStrategy: 'cookies',
     enableMock: true,
